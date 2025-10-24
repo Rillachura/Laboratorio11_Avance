@@ -1,0 +1,1 @@
+let contImpares=0, contPares=0;
