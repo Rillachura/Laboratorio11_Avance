@@ -7,5 +7,4 @@ for (let i=0; i<10; i++){
         contPares++;
     }
 }
-alert(`Cantidad de numeros pares: ${contPares}`);
-alert(`Cantidad de numeros impares: ${contImpares}`);
+alert(`Cantidad de numeros pares: ${contPares}\nCantidad de numeros impares: ${contImpares}`);
