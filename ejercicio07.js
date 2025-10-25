@@ -1,3 +1,4 @@
+//Ejercicio07
 let monto = parseInt(prompt("Que monoto desea retirar (min 10): "));
 let billetes100 = parseInt(monto/100);
 let sobra1 = monto%100;

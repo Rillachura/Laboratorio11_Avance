@@ -1,3 +1,4 @@
+//Ejercicio05
 let contImpares=0, contPares=0;
 for (let i=0; i<10; i++){
     let num = parseFloat(prompt("Ingrese un numero: "));

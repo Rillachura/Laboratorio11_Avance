@@ -1,3 +1,4 @@
+//Ejercicio12
 let opcion;
 do {
   opcion = parseInt(prompt(

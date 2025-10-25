@@ -1,5 +1,5 @@
+//Ejercicio10
 let opcion;
-
 do {
   opcion = parseInt(prompt(
     "MENÚ DE OPCIONES:\n" +

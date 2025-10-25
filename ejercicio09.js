@@ -1,3 +1,4 @@
+//Ejercicio09
 let limite = parseInt(prompt("Ingrese un limite: "));
 let suma=0;
 for (let i=1; i<=limite; i++){

@@ -1,4 +1,4 @@
-
+//Ejercicio11
 let num = prompt(
     "ES NUMERO DE ARMSTRONG??\n"+
     "Ingrese un numero:"

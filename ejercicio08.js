@@ -1,3 +1,4 @@
+//Ejercicio08
 let limite = parseInt(prompt("Ingrese un numero: "));
 let numerosPrimos="";
 for (let num=2; num<=limite; num++){

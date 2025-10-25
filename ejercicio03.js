@@ -1,4 +1,4 @@
-//Ejercicio01
+//Ejercicio03
 let suma=0;
 let nota=0;
 for (let i=1; i<6; i++){

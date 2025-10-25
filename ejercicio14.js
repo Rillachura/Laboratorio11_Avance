@@ -1,3 +1,4 @@
+//Ejercicio14
 let opcion;
 let total = 0;
 let presupuesto = parseFloat(prompt("Ingrese su presupuesto máximo:"));

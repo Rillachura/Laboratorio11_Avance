@@ -1,4 +1,4 @@
-//Ejercicio02
+//Ejercicio04
 let edad = parseFloat(prompt("Ingrese edad: "));
 if (edad>0 && edad<120){
     if (edad<12) alert(`Usted es un niño`);
